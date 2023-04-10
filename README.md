@@ -2,4 +2,4 @@
 
 ## Module information 
 
-** Gaining deep knowledge for working with Node.js, Express.js with Handlebars view engine.Learning how to handle API with Express.
+**Gaining deep knowledge for working with Node.js, Express.js with Handlebars view engine.Learning how to handle API with Express.**
